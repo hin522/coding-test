@@ -13,7 +13,7 @@ The application allows user to query the relative balance for an account within 
 
 ## How to run
 ``
-./java -jar build/libs/tx-record-1.0-SNAPSHOT.jar input.csv
+java -jar build/libs/tx-record-1.0-SNAPSHOT.jar input.csv
 ``
 
 ## Assumptions
