@@ -1,7 +1,7 @@
 # Tx Record
 A simple Java command line application to analyse financial transaction records. It takes a list of transactions from a comma separated CSV file. 
 
-The application allows user to query the relative balance for an account within a given time ranges.
+The application allows user to query the relative balance for an account within a given time range.
 
 ## CSV format
 [txId],[accountId],[fromAccountId],[toAccountId],[dateTime: dd/MM/yyyy hh:mm:ss],[amount],[paymentType: PAYMENT | REVERSAL],[relatedTxId]
